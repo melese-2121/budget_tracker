@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid rgb(32, 126, 126);
+  border-radius: 5px;
+  width: 70%;
+  margin-top: 50px;
+  background-color: rgb(237, 240, 243);
+}
+
+.title {
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+}

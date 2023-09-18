@@ -1,0 +1,14 @@
+.input {
+  width: 100%;
+}
+
+.select {
+  text-align: center;
+}
+.selectContainer {
+  justify-content: space-around;
+}
+.cont {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
